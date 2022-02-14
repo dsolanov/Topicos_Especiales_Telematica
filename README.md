@@ -1,4 +1,5 @@
 # BIENVENIDOS A TOPICOS ESPECIALES EN TELEMATICA
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -25,38 +26,49 @@
     <h3>Installation</h3>
     <h4>Steps</h4>
     <ol type="I">
-        <li>Download Python <a href="https://www.python.org/downloads/" target="_blank">www.python.org</a></li>
-        (https://user-images.githubusercontent.com/73181151/153784778-1aedc04f-506d-4b4e-a1af-71e2de24a7af.png)
-        <p>If you already have python installed, go to the next step (ii)</p>
-        <li> From your terminal write: pip install sockets</li>
-        <li> From your terminal write: pip install BeautifulSoup4</li>
-    </ol>
-    <li>Download the Python file called "lab1.py" from the following link: <a
+        <li>Download Python from <a href="https://www.python.org/downloads/" target="_blank">www.python.org</a></li>
+        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/7_Python.png">
+
+        <p>If you already have python installed, go to the next step (1 & 2)</p>
+            <ol type="1">
+                <li> From your terminal write: pip install sockets</li>
+                <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/8_Sockets.png">
+                <li> From your terminal write: pip install BeautifulSoup4</li>
+                <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/9_Bs4.png">
+            </ol>
+            <br/>
+        <li>Download the Python file called "lab1.py" from the following link: <a
             href="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/lab1.py"
-            target="_blank">lab1.py</a></li>
-    </li>
-    <li>Run the code on Visual Studio Code (VS Code)</li>
-    <li>Follow step by step the instructions that appear in the terminal</li>
+            target="_blank">lab1.py</a>
+        </li>
+        <li>Run the code on Visual Studio Code (VS Code)</li>
+        <li>Follow step by step the instructions that appear in the terminal</li>
+    </ol>
     <h5>Terminal Steps</h5>
     <ol type="square"> 
         <li>Write the HOST</li>
         <p>You can write the HOST using IP Address or URL, like: "3.217.183.77" or "python.org"</p>
         <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/1_HOST.png">
-        <br>
+        <br/>
         <li> Write the PATH</li>
         <p>You can write the PATH using "index.html"</p>
-        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/2_PATH.png"><br>
+        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/2_PATH.png">
+        <br/>
         <li> Write the PORT</li>
-        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/3_PORT.png"><br>
+        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/3_PORT.png">
+        <br/>
         <li> Write the FILE NAME</li>
         <p>You can write the FILE NAME as you wish</p>
-        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/4_FileName.png"><br>
+        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/4_FileName.png">
+        <br/>
         <li> Write the EXTENSION</li>
         <p>You can write the EXTENSION as you wish (if it exist)</p>
-        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/5_EXTENSION.png"><br>
+        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/5_EXTENSION.png">
+        <br/>
         <li> Confirm PARSER </li>
         <p>You can PARSER if you want, write (1) for "yes" or can write (2) for pass</p>
-        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/6_PARSER.png"><br>
+        <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/6_PARSER.png">
+        <br/>
     </ol>
     <h2>References</h2>
     <ul type="disc">
