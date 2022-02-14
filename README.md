@@ -1,12 +1,9 @@
 # BIENVENIDOS A TOPICOS ESPECIALES EN TELEMATICA
-
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
     <meta charset="UTF-8">
 </head>
-
 <body>
     <header>
         <h1>Sockets</h1>
@@ -34,7 +31,6 @@
         <li> From your terminal write: pip install sockets</li>
         <li> From your terminal write: pip install BeautifulSoup4</li>
     </ol>
-
     <li>Download the Python file called "lab1.py" from the following link: <a
             href="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/lab1.py"
             target="_blank">lab1.py</a></li>
@@ -72,5 +68,4 @@
                 Request Web Pages, Download Images, POST Data, Read JSON, and More</a></li>
     </ul>
 </body>
-
 </html>
