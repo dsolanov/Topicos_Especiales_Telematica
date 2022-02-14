@@ -28,12 +28,12 @@
     <h2>How to run the program?</h2>
     <h3>Installation</h3>
     <h4>Steps</h4>
-    <ol>
+    <ol type= "I">
     <li>Download Python <a href="https://www.python.org/downloads/" target="_blank">www.python.org</a></li>
      (https://user-images.githubusercontent.com/73181151/153784778-1aedc04f-506d-4b4e-a1af-71e2de24a7af.png)
      <p>If you already have python installed, go to the next step (2)</p>
-     <ol type= 1> From your terminal write: pip install sockets</ol>
-     <ol type = 2> From your terminal write: pip install BeautifulSoup4</ol>
+     <li> From your terminal write: pip install sockets</li>
+     <li> From your terminal write: pip install BeautifulSoup4</li>
      <li>Download the Python file called "lab1.py" from the following link: <a href="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/lab1.py" target="_blank">lab1.py</a></li></li>
      <li>Run the code on Visual Studio Code (VS Code)</li>
      <li>Follow step by step the instructions that appear in the terminal</li>
@@ -54,8 +54,8 @@
     ![image](https://user-images.githubusercontent.com/73181151/153785749-cad03fa6-b41b-4ae3-859f-461d82cdb1b9.png)
     <ol> Confirm PARSER </ol>
     <p>You can PARSER if you want, write (1) for "yes" or can write (2) for pass</p>
-    (https://user-images.githubusercontent.com/73181151/153785877-7140c612-7779-4755-8ccb-30183e958f7f.png)
-    (https://user-images.githubusercontent.com/73181151/153786101-1f483591-0ad7-4dbb-aa1d-f545377c745e.png)
+    (https://user-images.githubusercontent.com/73181151/153785877-7140c612-7779-4755-8ccb-30183e958f7f.png)<br> 
+    (https://user-images.githubusercontent.com/73181151/153786101-1f483591-0ad7-4dbb-aa1d-f545377c745e.png)<br> 
     (https://user-images.githubusercontent.com/73181151/153786165-a5efb6ac-96b9-4178-8a2c-d3e6311beb10.png)
     </ol>
     <h2>References</h2>
