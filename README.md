@@ -25,8 +25,8 @@
         which is the triad of transport protocol, IP address, and port number.
 
         The term socket is also used for the software endpoint of node-internal inter-process communication (IPC), which
-        often uses the same API as a network socket.</p>
-
+        often uses the same API as a network socket.
+    </p>
     <h2>How to run the program?</h2>
     <h3>Installation</h3>
     <h4>Steps</h4>
