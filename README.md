@@ -30,10 +30,10 @@
         <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/7_Python.png">
         <p>If you already have python installed, go to the next step (1 & 2)</p>
             <ol type="1">
-                <li> From your terminal write: pip install sockets</li>
-                <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/8_Sockets.png">
-                <li> From your terminal write: pip install BeautifulSoup4</li>
-                <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/9_Bs4.png">
+            <li> From your terminal write: pip install sockets</li>
+            <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/8_Sockets.png">
+            <li> From your terminal write: pip install BeautifulSoup4</li>
+            <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/9_Bs4.png">
             </ol>
             <br/>
         <li>Download the Python file called "lab1.py" from the following link: <a
