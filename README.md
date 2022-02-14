@@ -59,6 +59,11 @@
     (https://user-images.githubusercontent.com/73181151/153786165-a5efb6ac-96b9-4178-8a2c-d3e6311beb10.png)
     </ol>
     <h2>References</h2>
+    <ul type="disc">
+        <li><a href="https://www.geeksforgeeks.org/authentication-using-python-requests/?ref=lbp" target="_blank">Geeksforgeeks.org</a></li>
+        <li><a href="https://stackoverflow.com/questions/60915131/receive-the-body-content-in-the-http-response-in-python" target="_blank">Stackoverflow.com</a></li>
+        <li><a href="https://www.youtube.com/watch?v=tb8gHvYlCFs&t=217s" target="_blank">Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More</a></li>              
+    </ul>
 </body>
 
 </html>
