@@ -28,7 +28,6 @@
     <ol type="I">
         <li>Download Python from <a href="https://www.python.org/downloads/" target="_blank">www.python.org</a></li>
         <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/7_Python.png">
-
         <p>If you already have python installed, go to the next step (1 & 2)</p>
             <ol type="1">
                 <li> From your terminal write: pip install sockets</li>
