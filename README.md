@@ -39,19 +39,24 @@
      <li>Follow step by step the instructions that appear in the terminal</li>
      <li>Terminal Steps</li>
     <ol> Write the HOST</ol>
-    ![image](https://user-images.githubusercontent.com/73181151/153786012-a4eb6249-ee39-4062-93f1-c68b86fbb27e.png)
+    <p>You can write the HOST using IP Address or URL, like: "3.217.183.77" or "python.org"</p>
+    (https://user-images.githubusercontent.com/73181151/153786012-a4eb6249-ee39-4062-93f1-c68b86fbb27e.png)
     <ol> Write the PATH</ol>
-    ![image](https://user-images.githubusercontent.com/73181151/153785601-bc029d37-6b4a-48cd-989f-f67e83bd2aaf.png)
+    <p>You can write the PATH using "index.html"</p>
+    https://user-images.githubusercontent.com/73181151/153785601-bc029d37-6b4a-48cd-989f-f67e83bd2aaf.png)
     <ol> Write the PORT</ol>
-    ![image](https://user-images.githubusercontent.com/73181151/153785654-4831d537-5829-445c-a330-6defc4ef79f2.png)
+    (https://user-images.githubusercontent.com/73181151/153785654-4831d537-5829-445c-a330-6defc4ef79f2.png)
     <ol> Write the FILE NAME</ol>
-    ![image](https://user-images.githubusercontent.com/73181151/153785707-c411f624-edc2-43f2-8472-840b47d30a12.png)
+    <p>You can write the FILE NAME as you wish</p>
+    (https://user-images.githubusercontent.com/73181151/153785707-c411f624-edc2-43f2-8472-840b47d30a12.png)
     <ol> Write the EXTENSION</ol>
+    <p>You can write the EXTENSION as you wish (if it exist)</p>
     ![image](https://user-images.githubusercontent.com/73181151/153785749-cad03fa6-b41b-4ae3-859f-461d82cdb1b9.png)
-    <ol> Confirm PARSER/ol>
-    ![image](https://user-images.githubusercontent.com/73181151/153785877-7140c612-7779-4755-8ccb-30183e958f7f.png)
-    ![image](https://user-images.githubusercontent.com/73181151/153786101-1f483591-0ad7-4dbb-aa1d-f545377c745e.png)
-    ![image](https://user-images.githubusercontent.com/73181151/153786165-a5efb6ac-96b9-4178-8a2c-d3e6311beb10.png)
+    <ol> Confirm PARSER </ol>
+    <p>You can PARSER if you want, write (1) for "yes" or can write (2) for pass</p>
+    (https://user-images.githubusercontent.com/73181151/153785877-7140c612-7779-4755-8ccb-30183e958f7f.png)
+    (https://user-images.githubusercontent.com/73181151/153786101-1f483591-0ad7-4dbb-aa1d-f545377c745e.png)
+    (https://user-images.githubusercontent.com/73181151/153786165-a5efb6ac-96b9-4178-8a2c-d3e6311beb10.png)
     </ol>
 </body>
 
