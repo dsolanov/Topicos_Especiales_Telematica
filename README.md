@@ -31,7 +31,6 @@
     <ol>
         <li>Download Python <a href="https://www.python.org/downloads/" target="_blank">www.python.org</a></li>
      ![image](https://user-images.githubusercontent.com/73181151/153784778-1aedc04f-506d-4b4e-a1af-71e2de24a7af.png)
-
         <p>If you already have python installed, go to the next step (2)</p>
             <ol>From your terminal write: pip install sockets</ol>
             <ol>From your terminal write: pip install BeautifulSoup4</ol>
