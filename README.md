@@ -29,16 +29,16 @@
     <h3>Installation</h3>
     <h4>Steps</h4>
     <ol>
-        <li>Download Python <a href="https://www.python.org/downloads/" target="_blank">www.python.org</a></li>
+    <li>Download Python <a href="https://www.python.org/downloads/" target="_blank">www.python.org</a></li>
      ![image](https://user-images.githubusercontent.com/73181151/153784778-1aedc04f-506d-4b4e-a1af-71e2de24a7af.png)
-        <p>If you already have python installed, go to the next step (2)</p>
-            <ol>From your terminal write: pip install sockets</ol>
-            <ol>From your terminal write: pip install BeautifulSoup4</ol>
+     <p>If you already have python installed, go to the next step (2)</p>
+     <ol>From your terminal write: pip install sockets</ol>
+     <ol>From your terminal write: pip install BeautifulSoup4</ol>
         
-        <li>Download the Python file called "lab1.py" from the following link: <a href="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/lab1.py" target="_blank">lab1.py</a></li></li>
-        <li>Run the code on Visual Studio Code (VS Code)</li>
-        <li>Follow step by step the instructions that appear in the terminal</li>
-        <li>Cancion #5</li>
+     <li>Download the Python file called "lab1.py" from the following link: <a href="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/lab1.py" target="_blank">lab1.py</a></li></li>
+     <li>Run the code on Visual Studio Code (VS Code)</li>
+     <li>Follow step by step the instructions that appear in the terminal</li>
+     <li>Cancion #5</li>
     </ol>
 </body>
 
