@@ -34,7 +34,6 @@
      <p>If you already have python installed, go to the next step (2)</p>
      <ol type= 1> From your terminal write: pip install sockets</ol>
      <ol type = 2> From your terminal write: pip install BeautifulSoup4</ol>
-        
      <li>Download the Python file called "lab1.py" from the following link: <a href="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/lab1.py" target="_blank">lab1.py</a></li></li>
      <li>Run the code on Visual Studio Code (VS Code)</li>
      <li>Follow step by step the instructions that appear in the terminal</li>
