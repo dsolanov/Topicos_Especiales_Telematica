@@ -77,6 +77,7 @@
                 target="_blank">Stackoverflow.com</a></li>
         <li><a href="https://www.youtube.com/watch?v=tb8gHvYlCFs&t=217s" target="_blank">Python Requests Tutorial:
                 Request Web Pages, Download Images, POST Data, Read JSON, and More</a></li>
+        <li><a href="https://realpython.com/python-sockets/" target="_blank">Socket Programming in Python (Guide)</a></li>
     </ul>
 </body>
 </html>
