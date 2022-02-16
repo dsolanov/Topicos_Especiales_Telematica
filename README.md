@@ -36,9 +36,9 @@
             <img src="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/img/9_Bs4.png">
             </ol>
             <br/>
-        <li>Download the Python file called "lab1.py" from the following link: <a
+        <li>Download the Python file called "yacurl.py" from the following link: <a
             href="https://github.com/dsolanov/Topicos_Especiales_Telematica/blob/main/lab1.py"
-            target="_blank">lab1.py</a>
+            target="_blank">yacurl.py</a>
         </li>
         <li>Run the code on Visual Studio Code (VS Code)</li>
         <li>Follow step by step the instructions that appear in the terminal</li>
